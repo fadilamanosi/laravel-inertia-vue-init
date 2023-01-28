@@ -1,6 +1,6 @@
 <template>
     <div class="text-green-700 text-2xl ">
-        Complete inertia appdff..
+        Complete inertia app
     </div>
 </template>
 
