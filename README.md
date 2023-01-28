@@ -11,15 +11,14 @@
 
 This repo is a preconfigured complete laravel vite, vue, inerta and tailwind package 
 
+Just clone or fork repo then pull to your localhost. 
+Make sure you have the latest nodejs or ^16 installed and all php needed
+ laravel extensions are installed. 
+
 ## Usage
-
-    Just clone or fork repo then pull to your localhost. 
-    Make sure you have the latest nodejs or ^16 installed
-    and all php needed laravel extensions are installed. 
-
-    * Run `npm i`
-    * Run `composer install`
-    * Run `php artisan serve`
-    * Run `npm run dev`
+    * `npm i`
+    * `composer install`
+    * `php artisan serve`
+    * `npm run dev`
 
 
