@@ -16,9 +16,9 @@ Make sure you have the latest nodejs or ^16 installed and all php needed
  laravel extensions are installed. 
 
 ## Usage
-    * `npm i`
-    * `composer install`
-    * `php artisan serve`
-    * `npm run dev`
+    * npm i
+    * composer install
+    * php artisan serve
+    * npm run dev
 
 
